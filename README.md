@@ -12,3 +12,5 @@ Last line modified locally
 2. Is
 3. A
 4. List
+
+![Shark diagram](http://localhost:8888/files/Downloads/student%203/images/Picture2.png?_xsrf=2%7Cad946ea3%7Cab78c6298a1e764988bd9fe50d8429cd%7C1771809097)
